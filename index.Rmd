@@ -1,7 +1,8 @@
 --- 
-title: "YOUR TITLE HERE"
-author: "YOUR NAME HERE"
+title: "My ETICS Report"
+author: "Daniel Wilkinson"
 date: "`r Sys.Date()`"
+output: pdf_document
 site: bookdown::bookdown_site
 ---
 
